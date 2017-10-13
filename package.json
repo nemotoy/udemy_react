@@ -5,6 +5,9 @@
   "repository": "git@github.com:nemotoy/udemy_react.git",
   "author": "Yuma Nemoto <nemoto1257@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
